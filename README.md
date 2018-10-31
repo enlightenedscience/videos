@@ -14,9 +14,11 @@ https://youtu.be/G8a7ou1wLBw
 Real-time artificial neural network regression of sensor data as sensor is exposed to changing levels of relative humidity.
 https://youtu.be/qShslUHae9w
 
-
 Solution of system of nonlinear multivariate equations with real-time extraction and visulaization of solution parameters over time. 
 https://youtu.be/HgbRVpLLllg
+
+Behavior of viscoelastic film under shear stress when shear modulus of film is changing in time.
+https://youtu.be/Djehh3pB_sM
 
 
 The YouTube channel which holds some of my science and engineering visualizations: 
